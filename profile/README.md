@@ -3,6 +3,4 @@
 <p>Also checkout our <a href="https://dawn-s-lab.github.io/Website/">website!</a</p>
 <hr>
 <h1>Contact Us!</h1>
-<a href="mailto:DawnsLab@proton.me" target="_blank">
-    <button>Email Us!</button>
-</a>
+[![Email Us!]([ProtonMail](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/1280px-ProtonMail_logo.svg.png))](mailto:DawnsLab@proton.me)
